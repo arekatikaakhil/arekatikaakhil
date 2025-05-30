@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 I’m a Data Analyst with hands-on experience in transforming raw data into actionable insights across public sector, enterprise, and academic environments. From predicting heat-related illness risks to building grant-ready dashboards for municipalities, I’m driven by the impact of data.
 
