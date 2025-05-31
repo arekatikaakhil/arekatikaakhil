@@ -25,10 +25,8 @@ Built emergency response models and predictive tools for public health alerts.
 **Data Analyst @ Liga de Ciudades de Puerto Rico** *(Jan 2025 – May 2025)*  
 Developed a bilingual municipal dashboard using Streamlit, MySQL, and AWS.
 
-**Data Analyst @ Cognizant** *(Sep 2021 – Aug 2023)*  
+**Data Analyst @ Cognizant** *(Jun 2021 – July 2023)*  
 Worked on web analytics and front-end solutions using AEM, APIs, and AWS.
-
-**Data Analyst Trainee** *(Jun 2021 – Sep 2021)*  
 Built dashboards and cleaned real-world datasets for KPI tracking and business insights.
 
 ---
