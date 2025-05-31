@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Akhil Arekatika!
+# 👋 Hey, I'm Akhil Arekatika!   
 
 🎓 Master’s Student in Data Analytics Engineering at George Mason University  
 🔍 Passionate about data-driven solutions, machine learning, and building smart dashboards for real-world impact  
@@ -17,7 +17,7 @@ I’m a Data Analyst with hands-on experience in transforming raw data into acti
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience 
 
 **Data Analyst Intern @ Charlottesville Fire Dept** *(Oct 2024 – Present)*  
 Built emergency response models and predictive tools for public health alerts.
