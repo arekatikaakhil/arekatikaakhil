@@ -2,7 +2,7 @@
 
 🎓 Master’s Student in Data Analytics Engineering at George Mason University  
 🔍 Passionate about data-driven solutions, machine learning, and building smart dashboards for real-world impact  
-📍 Based in Virginia | Open to full-time roles in Data Analytics, Data Science, or Data Engineering
+📍 Based in Birmingham, AL | Open to full-time roles in Data Analytics, Data Science, or Data Engineering
 
 ---
 
@@ -19,15 +19,14 @@ I’m a Data Analyst with hands-on experience in transforming raw data into acti
 
 ## 💼 Professional Experience 
 
-**Data Analyst Intern @ Charlottesville Fire Dept** *(Oct 2024 – Present)*  
-Built emergency response models and predictive tools for public health alerts.
+**Data Analyst @ Dell Technologies** *(June 2025 – Present)*  
+Owned enterprise AI Factory pipelines, reducing latency by 50% and scaling analytics across regions. Built interactive Power BI dashboards with real-time KPIs for 20+ business units, implemented dbt for reusable data models, and developed predictive Python models for demand forecasting. Mentored interns on SQL and dashboard best practices, improving team efficiency.
 
-**Data Analyst @ Liga de Ciudades de Puerto Rico** *(Jan 2025 – May 2025)*  
-Developed a bilingual municipal dashboard using Streamlit, MySQL, and AWS.
+**Data Analyst Intern @ Dell Technologies** *(Aug 2024 – May 2025)*  
+Contributed to the AI Factory/Data Mesh initiative centralizing data across 170+ countries. Designed ETL pipelines with Airflow and dbt, boosting efficiency by 35%. Automated SQL/Python workflows and built Power BI dashboards that reduced manual reporting by 40% and improved data accuracy through validation checks and anomaly detection.
 
-**Programmer Analyst @ Cognizant** *(Oct 2021 – July 2023)*  
-Worked on web analytics and front-end solutions using AEM, APIs, and AWS.
-Built dashboards and cleaned real-world datasets for KPI tracking and business insights.
+**Programmer Analyst @ Infosys BPM** *(Jan 2020 – July 2023)*  
+Supported a Life Sciences analytics platform for pharmaceutical clients, enabling KPI tracking and strategic insights. Cleaned and modeled healthcare datasets using SQL and R to forecast sales trends and patient outcomes with 25% higher accuracy. Built Tableau dashboards and automated workflows that reduced reporting effort by 30%, applied A/B testing to optimize marketing, and ensured HIPAA compliance for sensitive data.
 
 ---
 
