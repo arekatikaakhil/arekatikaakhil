@@ -61,8 +61,8 @@ Supported a Life Sciences analytics platform for pharmaceutical clients, enablin
 ## 📫 Let’s Connect
 
 I’m always open to learning, collaborating, and exploring new opportunities.  
-📧 [Email Me](mailto:arekatikaakhil2@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/sri-navya-kancharla)  
+📧 [Email Me](mailto:akhilarekatika3@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/akhil-arekatika-/)  
 📊 [Tableau Public](https://public.tableau.com/app/profile/sri.navya.kancharla)
 
 ---
