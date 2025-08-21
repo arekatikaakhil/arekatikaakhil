@@ -20,13 +20,37 @@ I’m a Data Analyst with hands-on experience in transforming raw data into acti
 ## 💼 Professional Experience 
 
 **Data Analyst @ Dell Technologies** *(June 2025 – Present)*  
-Owned enterprise AI Factory pipelines, reducing latency by 50% and scaling analytics across regions. Built interactive Power BI dashboards with real-time KPIs for 20+ business units, implemented dbt for reusable data models, and developed predictive Python models for demand forecasting. Mentored interns on SQL and dashboard best practices, improving team efficiency.
+• Contributed to the Dell Al Factory / Data Mesh Initiative, centralizing enterprise-wide data assets across 170+ countries to enable
+scalable Al-driven insights and self-service analytics.
+• Designed and optimized ETL/ELT pipelines using Apache Airflow and dbt, improving data ingestion efficiency by 35% and reducing
+pipeline failures.
+• Developed interactive Power BI dashboards for KPI tracking and executive reporting, cutting manual reporting efforts by 40%.
+• Collaborated with cross-functional teams to establish data governance standards, ensuring compliance with security and regulatory
+frameworks.
+• Applied Python and SQL to perform advanced analytics on unified datasets, enabling predictive insights that supported strategic
+decision-making.
+• Integrated ETL pipelines with AWS cloud services to enhance scalability and storage efficiency, enabling seamless access to
+high-volume data for analytics and reporting.
 
-**Data Analyst Intern @ Dell Technologies** *(Aug 2024 – May 2025)*  
-Contributed to the AI Factory/Data Mesh initiative centralizing data across 170+ countries. Designed ETL pipelines with Airflow and dbt, boosting efficiency by 35%. Automated SQL/Python workflows and built Power BI dashboards that reduced manual reporting by 40% and improved data accuracy through validation checks and anomaly detection.
 
 **Programmer Analyst @ Infosys BPM** *(Jan 2020 – July 2023)*  
-Supported a Life Sciences analytics platform for pharmaceutical clients, enabling KPI tracking and strategic insights. Cleaned and modeled healthcare datasets using SQL and R to forecast sales trends and patient outcomes with 25% higher accuracy. Built Tableau dashboards and automated workflows that reduced reporting effort by 30%, applied A/B testing to optimize marketing, and ensured HIPAA compliance for sensitive data.
+• Supported the Life Sciences Commercial Insights Platform, a cloud-based analytics solution enabling pharmaceutical clients to
+monitor KPIs, improve field effectiveness, and drive evidence-based decision-making.
+• Performed data mining, cleansing, and wrangling on large-scale healthcare datasets to ensure accuracy and readiness for advanced
+analytics.
+• Built statistical models in R and SQL to forecast sales trends, patient outcomes, and market opportunities with improved prediction
+accuracy.
+• Developed interactive Tableau dashboards and Excel-based financial reports, enhancing visibility of commercial performance for
+client leadership.
+• Automated reporting workflows that reduced manual effort by 30% and accelerated delivery of monthly insights to stakeholders.
+• Partnered with cross-functional teams, including business consultants and domain experts, to translate real-world life sciences data
+into actionable insights.
+• Applied A/B testing methodologies to evaluate promotional strategies, helping clients optimize field engagement and marketing
+investments.
+• Ensured compliance with pharmaceutical regulations and data privacy standards, safeguarding sensitive healthcare information
+during analysis.
+• Provided actionable recommendations that improved sales forecasting accuracy by 25% and enhanced decision-making across client
+commercial operations.
 
 ---
 
