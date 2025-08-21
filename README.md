@@ -19,7 +19,7 @@ I’m a Data Analyst with hands-on experience in transforming raw data into acti
 
 ## 💼 Professional Experience 
 
-**Data Analyst @ Dell Technologies** *(June 2025 – Present)*  
+**Data Analyst @ Dell Technologies** *(July 2025 – Present)*  
 • Contributed to the Dell Al Factory / Data Mesh Initiative, centralizing enterprise-wide data assets across 170+ countries to enable
 scalable Al-driven insights and self-service analytics.
 • Designed and optimized ETL/ELT pipelines using Apache Airflow and dbt, improving data ingestion efficiency by 35% and reducing
@@ -33,7 +33,7 @@ decision-making.
 high-volume data for analytics and reporting.
 
 
-**Programmer Analyst @ Infosys BPM** *(Jan 2020 – July 2023)*  
+**Programmer Analyst @ Infosys BPM** *(Sep 2019 – July 2023)*  
 • Supported the Life Sciences Commercial Insights Platform, a cloud-based analytics solution enabling pharmaceutical clients to
 monitor KPIs, improve field effectiveness, and drive evidence-based decision-making.
 • Performed data mining, cleansing, and wrangling on large-scale healthcare datasets to ensure accuracy and readiness for advanced
