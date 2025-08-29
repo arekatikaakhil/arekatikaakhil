@@ -32,8 +32,21 @@ decision-making.
 • Integrated ETL pipelines with AWS cloud services to enhance scalability and storage efficiency, enabling seamless access to
 high-volume data for analytics and reporting.
 
+**Data Analyst Intern @ Charlottesville Fire Department** *(Jab 2025 – May 2025)*  
+• Developed Python models to analyze FIRE, HAZMAT, TECHNICAL, and EMS incidents, validating 90th percentile response
+times to improve performance tracking.
+• Automated manual processes with Python scripts to identify first-arriving units and validate ERF requirements, cutting processing
+time by 70% and improving reporting accuracy.
+• Optimized large datasets with Python and SQL to generate automated Excel reports and integrated 10 years of EMS and weather
+data to forecast heat-related illness risks, supporting timely public alerts.
+• Designed interactive dashboards in Power BI and Excel to monitor incident trends, ERF compliance, and response delays,
+highlighting high-risk periods to enhance city leadership decision-making and community readiness.
+• Applied geospatial analysis to map high-risk neighborhoods and built interactive dashboards with downloadable visuals, enabling
+data-driven resource deployment.
+• Built a SharePoint portal and automated workflows in Power Automate, improving communication efficiency and tool access for over
+90+ staff members.
 
-**Programmer Analyst @ Infosys BPM** *(Sep 2019 – July 2023)*  
+**Data Analyst @ Infosys BPM** *(Sep 2019 – July 2023)*  
 • Supported the Life Sciences Commercial Insights Platform, a cloud-based analytics solution enabling pharmaceutical clients to
 monitor KPIs, improve field effectiveness, and drive evidence-based decision-making.
 • Performed data mining, cleansing, and wrangling on large-scale healthcare datasets to ensure accuracy and readiness for advanced
