@@ -22,6 +22,7 @@ I’m a Data Analyst with hands-on experience in transforming raw data into acti
 **Data Analyst @ Dell Technologies** *(July 2025 – Present)*  
 • Contributed to the Dell Al Factory / Data Mesh Initiative, centralizing enterprise-wide data assets across 170+ countries to enable
 scalable Al-driven insights and self-service analytics.
+
 • Designed and optimized ETL/ELT pipelines using Apache Airflow and dbt, improving data ingestion efficiency by 35% and reducing
 pipeline failures.
 • Developed interactive Power BI dashboards for KPI tracking and executive reporting, cutting manual reporting efforts by 40%.
