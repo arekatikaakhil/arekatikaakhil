@@ -25,17 +25,23 @@ scalable Al-driven insights and self-service analytics.
 
 • Designed and optimized ETL/ELT pipelines using Apache Airflow and dbt, improving data ingestion efficiency by 35% and reducing
 pipeline failures.
+
 • Developed interactive Power BI dashboards for KPI tracking and executive reporting, cutting manual reporting efforts by 40%.
+
 • Collaborated with cross-functional teams to establish data governance standards, ensuring compliance with security and regulatory
 frameworks.
+
 • Applied Python and SQL to perform advanced analytics on unified datasets, enabling predictive insights that supported strategic
 decision-making.
+
 • Integrated ETL pipelines with AWS cloud services to enhance scalability and storage efficiency, enabling seamless access to
 high-volume data for analytics and reporting.
+
 
 **Data Analyst Intern @ Charlottesville Fire Department** *(Jab 2025 – May 2025)*  
 • Developed Python models to analyze FIRE, HAZMAT, TECHNICAL, and EMS incidents, validating 90th percentile response
 times to improve performance tracking.
+
 • Automated manual processes with Python scripts to identify first-arriving units and validate ERF requirements, cutting processing
 time by 70% and improving reporting accuracy.
 • Optimized large datasets with Python and SQL to generate automated Excel reports and integrated 10 years of EMS and weather
