@@ -22,26 +22,20 @@ I’m a Data Analyst with hands-on experience in transforming raw data into acti
 **Data Analyst @ Dell Technologies** *(July 2025 – Present)*  
 • Contributed to the Dell Al Factory / Data Mesh Initiative, centralizing enterprise-wide data assets across 170+ countries to enable
 scalable Al-driven insights and self-service analytics.
-
 • Designed and optimized ETL/ELT pipelines using Apache Airflow and dbt, improving data ingestion efficiency by 35% and reducing
 pipeline failures.
-
 • Developed interactive Power BI dashboards for KPI tracking and executive reporting, cutting manual reporting efforts by 40%.
-
 • Collaborated with cross-functional teams to establish data governance standards, ensuring compliance with security and regulatory
 frameworks.
-
 • Applied Python and SQL to perform advanced analytics on unified datasets, enabling predictive insights that supported strategic
 decision-making.
-
 • Integrated ETL pipelines with AWS cloud services to enhance scalability and storage efficiency, enabling seamless access to
 high-volume data for analytics and reporting.
 
 
-**Data Analyst Intern @ Charlottesville Fire Department** *(Jab 2025 – May 2025)*  
+**Data Analyst Intern @ Charlottesville Fire Department** *(Jan 2025 – May 2025)*  
 • Developed Python models to analyze FIRE, HAZMAT, TECHNICAL, and EMS incidents, validating 90th percentile response
 times to improve performance tracking.
-
 • Automated manual processes with Python scripts to identify first-arriving units and validate ERF requirements, cutting processing
 time by 70% and improving reporting accuracy.
 • Optimized large datasets with Python and SQL to generate automated Excel reports and integrated 10 years of EMS and weather
@@ -52,6 +46,7 @@ highlighting high-risk periods to enhance city leadership decision-making and co
 data-driven resource deployment.
 • Built a SharePoint portal and automated workflows in Power Automate, improving communication efficiency and tool access for over
 90+ staff members.
+
 
 **Data Analyst @ Infosys BPM** *(Sep 2019 – July 2023)*  
 • Supported the Life Sciences Commercial Insights Platform, a cloud-based analytics solution enabling pharmaceutical clients to
